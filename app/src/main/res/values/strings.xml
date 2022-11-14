@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Kittens-kt</string>
+    <string name="placeholder_content_description">Kitten picture</string>
+    <string name="get_new_picture_content_description">Get a new kitten picture</string>
+    <string name="fetching_new_picture_content_description">Fetching</string>
+    <string name="not_connected">Not connected</string>
+</resources>

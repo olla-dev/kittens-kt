@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kittens-kt</string>
+    <string name="placeholder_content_description">Photo de chaton</string>
+    <string name="get_new_picture_content_description">Télécharger une nouvelle photo</string>
+    <string name="fetching_new_picture_content_description">Téléchargement en cours</string>
+    <string name="not_connected">Non connecté à Internet</string>
+</resources>
